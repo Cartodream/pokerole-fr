@@ -16,6 +16,7 @@
       "path": "lang/fr.json"
     }
   ],
+  "esmodules": ["pokerole-fr.js"],
   "system": ["pokerole"],
   "compatibility": {
     "minimum": "13",
