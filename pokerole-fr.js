@@ -51,6 +51,16 @@ function translateSheet(html) {
   });
 }
 
+Hooks.once('babele.ready', () => {
+  if (typeof game.babele !== 'undefined') {
+    game.babele.register({
+      module: 'pokerole-fr',
+      lang: 'fr',
+      dir: 'packs'
+    });
+  }
+});
+
 Hooks.on('renderActorSheet', (sheet, html) => {
   translateSheet(html instanceof HTMLElement ? html : html[0]);
 });
