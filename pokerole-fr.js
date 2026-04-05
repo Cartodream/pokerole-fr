@@ -52,8 +52,8 @@ function translateSheet(html) {
 }
 
 Hooks.once('setup', () => {
-  if (typeof game.babele !== 'undefined') {
-    game.babele.register({
+  if (typeof Babele !== 'undefined') {
+    Babele.get().register({
       module: 'pokerole-fr',
       lang: 'fr',
       dir: 'packs'
