@@ -17,13 +17,6 @@
     }
   ],
   "esmodules": ["pokerole-fr.js"],
-  "flags": {
-    "babele": {
-      "module": "pokerole-fr",
-      "systemId": "pokerole",
-      "dir": "packs"
-    }
-  },
 
   "system": ["pokerole"],
   "compatibility": {

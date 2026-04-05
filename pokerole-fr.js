@@ -51,7 +51,7 @@ function translateSheet(html) {
   });
 }
 
-Hooks.once('babele.ready', () => {
+Hooks.once('setup', () => {
   if (typeof game.babele !== 'undefined') {
     game.babele.register({
       module: 'pokerole-fr',
