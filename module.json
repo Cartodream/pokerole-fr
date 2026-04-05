@@ -1,12 +1,12 @@
 {
   "id": "pokerole-fr",
-  "name": "pokerole-fr",
   "title": "Pokerole - Traduction Française",
   "description": "Traduction FR du système Pokerole",
   "version": "1.0.0",
   "authors": [
     {
-      "name": "TomBombadil"
+      "name": "TomBombadil",
+      "url": "https://github.com/Cartodream"
     }
   ],
   "languages": [
@@ -16,8 +16,9 @@
       "path": "lang/fr.json"
     }
   ],
+  "system": ["pokerole"],
   "compatibility": {
-    "minimum": "12",
+    "minimum": "13",
     "verified": "13"
   },
 
