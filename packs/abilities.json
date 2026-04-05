@@ -1,0 +1,1228 @@
+{
+  "label": "Talents (Core 3.0)",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Aerilate": {
+      "name": "Peau Céleste",
+      "description": "Les capacités de type Normal deviennent de type Vol.\\nLeur puissance augmente légèrement."
+    },
+    "Moody": {
+      "name": "Lunatique",
+      "description": "Augmente beaucoup une stat du Pokémon\\net en baisse une autre au hasard à chaque tour."
+    },
+    "Vessel of Ruin": {
+      "name": "Urne du Fléau",
+      "description": "Le pouvoir de l’urne qui appelle le fléau affaiblit\\nl’Attaque Spéciale de tous les autres Pokémon."
+    },
+    "Commander": {
+      "name": "Commandant",
+      "description": "Si un Oyacata allié est sur le terrain quand ce Pokémon\\nrejoint le combat, ce dernier entre dans sa bouche et\\ndevient son commandant."
+    },
+    "Trace": {
+      "name": "Calque",
+      "description": "Lorsque le Pokémon entre au combat, il calque le talent d'un ennemi pour remplacer le sien."
+    },
+    "Overgrow": {
+      "name": "Engrais",
+      "description": "Augmente la puissance des capacités de type Plante du Pokémon quand il a perdu une certaine quantité de PV."
+    },
+    "Hunger Switch": {
+      "name": "Déclic Fringale",
+      "description": "À la fin de chaque tour, le Pokémon alterne\\nentre ses formes Mode Rassasié et Mode Affamé."
+    },
+    "Aftermath": {
+      "name": "Boom Final",
+      "description": "Si le Pokémon est mis K.O. par une attaque directe,\\nil inflige des dégâts à l’attaquant avant de s’évanouir."
+    },
+    "Pastel Veil": {
+      "name": "Voile Pastel",
+      "description": "Protège le Pokémon et ses alliés contre toutes\\nles altérations de statut liées à l’empoisonnement."
+    },
+    "Flower Veil": {
+      "name": "Flora-Voile",
+      "description": "Empêche les alliés de type Plante de subir des baisses\\nde stats et des altérations de statut."
+    },
+    "Contrary": {
+      "name": "Contestation",
+      "description": "Inverse les changements de stats : les augmentations\\nde stats se transforment en baisses, et vice-versa."
+    },
+    "Ice Scales": {
+      "name": "Écailles Glacées",
+      "description": "Le Pokémon est protégé par des écailles de glace.\\nLes dégâts qu’il subit par des capacités spéciales\\nsont divisés par deux."
+    },
+    "Flower Gift": {
+      "name": "Don Floral",
+      "description": "Augmente l’Attaque et la Défense Spéciale du Pokémon\\net de ses alliés lorsque le soleil brille."
+    },
+    "Rough Skin": {
+      "name": "Peau Dure",
+      "description": "Blesse l'attaquant lorsque le Pokémon subit une attaque directe."
+    },
+    "Dancer": {
+      "name": "Danseuse",
+      "description": "Si n’importe quel Pokémon utilise une capacité dansante,\\nle Pokémon utilise immédiatement cette danse lui aussi."
+    },
+    "Iron Barbs": {
+      "name": "Épine de Fer",
+      "description": "Inflige des dégâts à l’attaquant lorsque le Pokémon\\nsubit une attaque directe."
+    },
+    "Solar Power": {
+      "name": "Force Soleil",
+      "description": "Quand le soleil brille, l'Attaque Spéciale du Pokémon augmente mais il perd des PV à chaque tour."
+    },
+    "No Guard": {
+      "name": "Annule Garde",
+      "description": "Les capacités du Pokémon touchent leur cible à coup sûr, mais les capacités de l'ennemi le touchent aussi à coup sûr."
+    },
+    "Water Compaction": {
+      "name": "Sable Humide",
+      "description": "Augmente beaucoup la Défense du Pokémon\\nquand il subit une capacité de type Eau."
+    },
+    "Damp": {
+      "name": "Moiteur",
+      "description": "Le Pokémon augmente l'humidité de l'air, ce qui empêche tous les Pokémon d'utiliser des capacités explosives telles que Destruction."
+    },
+    "Healer": {
+      "name": "Cœur Soin",
+      "description": "Soigne parfois une altération de statut d’un allié proche."
+    },
+    "Primordial Sea": {
+      "name": "Mer Primaire",
+      "description": "Altère les conditions météo pour neutraliser\\nles attaques de type Feu."
+    },
+    "Multiscale": {
+      "name": "Multiécaille",
+      "description": "Le Pokémon subit moins de dégâts quand ses PV\\nsont au maximum."
+    },
+    "Guts": {
+      "name": "Cran",
+      "description": "Augmente l'Attaque du Pokémon s'il est affecté par une altération de statut."
+    },
+    "Grim Neigh": {
+      "name": "Sombre Ruade",
+      "description": "Quand le Pokémon met un ennemi K.O., il émet\\nun hennissement terrifiant qui augmente\\nson Attaque Spéciale."
+    },
+    "Big Pecks": {
+      "name": "Cœur de Coq",
+      "description": "Protège des effets qui baissent la Défense."
+    },
+    "Magnet Pull": {
+      "name": "Magnépiège",
+      "description": "Attire les Pokémon Acier grâce à un champ magnétique, ce qui les empêche de quitter le terrain."
+    },
+    "Rock Head": {
+      "name": "Tête de Roc",
+      "description": "Le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV."
+    },
+    "Tinted Lens": {
+      "name": "Lentiteintée",
+      "description": "Permet à une capacité qui n'est pas très efficace d'infliger des dégâts comme si elle était efficace normalement."
+    },
+    "Competitive": {
+      "name": "Battant",
+      "description": "Augmente beaucoup l’Attaque Spéciale du Pokémon\\nquand ses stats ont été baissées par l’adversaire."
+    },
+    "Defiant": {
+      "name": "Acharné",
+      "description": "Augmente beaucoup l'Attaque du Pokémon quand ses stats sont baissées par l'adversaire."
+    },
+    "Queenly Majesty": {
+      "name": "Prestance Royale",
+      "description": "L’adversaire est impressionné par la majesté\\ndu Pokémon, ce qui l’empêche de viser ce dernier\\net ses alliés avec une capacité prioritaire."
+    },
+    "Reckless": {
+      "name": "Téméraire",
+      "description": "Augmente la puissance des capacités occasionnant un contrecoup."
+    },
+    "Intrepid Sword": {
+      "name": "Lame Indomptable",
+      "description": "Augmente l’Attaque du Pokémon la première fois\\nqu’il entre au combat."
+    },
+    "Schooling": {
+      "name": "Banc",
+      "description": "Le Pokémon se rassemble avec ses congénères\\nquand ses PV sont élevés. Quand il ne lui reste\\nplus beaucoup de PV, le banc se disperse."
+    },
+    "Protean": {
+      "name": "Protéen",
+      "description": "Le Pokémon prend le type de la capacité qu’il utilise.\\nCe talent ne peut se déclencher qu’une fois par entrée\\nau combat du Pokémon."
+    },
+    "Neutralizing Gas": {
+      "name": "Gaz Inhibiteur",
+      "description": "Si un Pokémon avec Gaz Inhibiteur est sur le terrain,\\nles effets des talents de tous les autres Pokémon ne\\ns’activent pas ou sont neutralisés."
+    },
+    "Dark Aura": {
+      "name": "Aura Ténébreuse",
+      "description": "Augmente la puissance des capacités de type Ténèbres\\nde tous les Pokémon."
+    },
+    "Turboblaze": {
+      "name": "Turbo Brasier",
+      "description": "Le Pokémon ignore les talents adverses qui auraient\\nun effet sur ses capacités."
+    },
+    "Parental Bond": {
+      "name": "Amour Filial",
+      "description": "La mère et son petit unissent leurs forces pour\\nattaquer deux fois d’affilée."
+    },
+    "Motor Drive": {
+      "name": "Motorisé",
+      "description": "Si le Pokémon est touché par une capacité de type\\nÉlectrik, il ne subit aucun dégât et sa Vitesse augmente."
+    },
+    "Compound Eyes": {
+      "name": "Œil Composé",
+      "description": "Les yeux à facettes du Pokémon augmentent la Précision de ses capacités."
+    },
+    "Screen Cleaner": {
+      "name": "Brise-Barrière",
+      "description": "Quand le Pokémon entre au combat, les effets de\\nMur Lumière, Protection et Voile Aurore disparaissent\\npour les alliés comme pour les adversaires."
+    },
+    "Super Luck": {
+      "name": "Chanceux",
+      "description": "Le Pokémon est tellement chanceux qu'il inflige plus fréquemment des coups critiques."
+    },
+    "Download": {
+      "name": "Télécharge",
+      "description": "Le Pokémon compare la Défense et la Défense Spéciale\\nde l’adversaire et, en fonction de la stat la plus basse,\\nil augmente sa propre Attaque ou Attaque Spéciale."
+    },
+    "Limber": {
+      "name": "Échauffement",
+      "description": "Le Pokémon s'est suffisamment échauffé, ce qui l'immunise contre la paralysie."
+    },
+    "Protosynthesis": {
+      "name": "Paléosynthèse",
+      "description": "Quand le soleil brille ou que le Pokémon tient\\nune capsule d’Énergie Booster, sa stat la plus élevée\\naugmente."
+    },
+    "Wonder Skin": {
+      "name": "Peau Miracle",
+      "description": "Le Pokémon résiste mieux aux capacités de statut."
+    },
+    "Minus": {
+      "name": "Moins",
+      "description": "L’Attaque Spéciale du Pokémon augmente\\nsi un Pokémon allié a le talent Moins ou Plus."
+    },
+    "Propeller Tail": {
+      "name": "Propulseur",
+      "description": "Permet d’ignorer l’effet des capacités ou des talents qui\\nattirent les capacités."
+    },
+    "Zen Mode": {
+      "name": "Mode Transe",
+      "description": "Le Pokémon change de forme quand il lui reste moins\\nde la moitié de ses PV."
+    },
+    "Toxic Debris": {
+      "name": "Dépôt Toxique",
+      "description": "Quand le Pokémon est touché par une capacité\\nphysique, il répand des pics toxiques dans le camp\\nadverse."
+    },
+    "Sand Rush": {
+      "name": "Baigne Sable",
+      "description": "Augmente la Vitesse lors des tempêtes de sable."
+    },
+    "Simple": {
+      "name": "Simple",
+      "description": "Les changements de stats sont deux fois plus importants\\npour le Pokémon."
+    },
+    "Shed Skin": {
+      "name": "Mue",
+      "description": "Le Pokémon soigne parfois ses altérations de statut en muant."
+    },
+    "Innards Out": {
+      "name": "Expuls’Organes",
+      "description": "Le Pokémon inflige à l’adversaire l’ayant mis K.O.\\ndes dégâts égaux au nombre de PV qu’il lui restait\\navant le coup de grâce."
+    },
+    "Chilling Neigh": {
+      "name": "Blanche Ruade",
+      "description": "Quand le Pokémon met un ennemi K.O., il émet\\nun hennissement glaçant, ce qui augmente son Attaque."
+    },
+    "Ripen": {
+      "name": "Mûrissement",
+      "description": "Le Pokémon fait mûrir la Baie qu’il tient\\net double ainsi son effet."
+    },
+    "Fairy Aura": {
+      "name": "Aura Féérique",
+      "description": "Augmente la puissance des capacités de type Fée\\nde tous les Pokémon."
+    },
+    "Magician": {
+      "name": "Magicien",
+      "description": "Les capacités volent aussi l’objet tenu par la cible."
+    },
+    "Solid Rock": {
+      "name": "Solide Roc",
+      "description": "Diminue la puissance des attaques super efficaces\\nsubies."
+    },
+    "Honey Gather": {
+      "name": "Cherche Miel",
+      "description": "Le Pokémon peut parfois trouver du Miel après un combat."
+    },
+    "Serene Grace": {
+      "name": "Sérénité",
+      "description": "Augmente les chances d'infliger des effets additionnels."
+    },
+    "Heavy Metal": {
+      "name": "Heavy Metal",
+      "description": "Double le poids du Pokémon."
+    },
+    "Beads of Ruin": {
+      "name": "Perles du Fléau",
+      "description": "Le pouvoir des perles qui appellent le fléau affaiblit\\nla Défense Spéciale de tous les autres Pokémon."
+    },
+    "Swift Swim": {
+      "name": "Glissade",
+      "description": "Augmente la Vitesse du Pokémon s'il pleut."
+    },
+    "Justified": {
+      "name": "Cœur Noble",
+      "description": "Réveille la noblesse du Pokémon lorsqu’il subit\\nune attaque de type Ténèbres, ce qui augmente\\nson Attaque."
+    },
+    "Opportunist": {
+      "name": "Opportuniste",
+      "description": "Quand les stats de l’ennemi augmentent, le Pokémon\\nen profite pour augmenter ses stats de la même manière."
+    },
+    "Anticipation": {
+      "name": "Anticipation",
+      "description": "Le Pokémon devine si l'adversaire connaît une capacité dangereuse pour lui."
+    },
+    "Cute Charm": {
+      "name": "Joli Sourire",
+      "description": "Peut séduire l'attaquant lorsque le Pokémon subit une attaque directe."
+    },
+    "Arena Trap": {
+      "name": "Piège Sable",
+      "description": "Empêche l'adversaire de quitter le terrain."
+    },
+    "Dauntless Shield": {
+      "name": "Égide Inflexible",
+      "description": "Augmente la Défense du Pokémon la première fois\\nqu’il entre au combat."
+    },
+    "Pure Power": {
+      "name": "Force Pure",
+      "description": "Le Pokémon utilise sa maîtrise du yoga pour doubler\\nla puissance de ses attaques physiques."
+    },
+    "Pixilate": {
+      "name": "Peau Féérique",
+      "description": "Les capacités de type Normal deviennent de type Fée.\\nLeur puissance augmente légèrement."
+    },
+    "Imposter": {
+      "name": "Imposteur",
+      "description": "Le Pokémon prend l’apparence du Pokémon adverse."
+    },
+    "Infiltrator": {
+      "name": "Infiltration",
+      "description": "Traverse les barrières et les clones adverses\\npour attaquer directement."
+    },
+    "Merciless": {
+      "name": "Cruauté",
+      "description": "Lorsque le Pokémon attaque un adversaire empoisonné,\\nle coup est forcément critique."
+    },
+    "Perish Body": {
+      "name": "Corps Condamné",
+      "description": "Lorsque le Pokémon est directement touché par\\nune capacité, l’assaillant et lui tomberont K.O. dans trois\\ntours, à moins qu’ils ne soient remplacés entre temps."
+    },
+    "Sturdy": {
+      "name": "Fermeté",
+      "description": "Le Pokémon encaisse toujours au moins une attaque\\ns’il a tous ses PV. Il est également immunisé contre\\nles capacités pouvant mettre K.O. en un coup."
+    },
+    "Misty Surge": {
+      "name": "Créa-Brume",
+      "description": "Le Pokémon crée un champ brumeux au moment\\noù il entre au combat."
+    },
+    "Insomnia": {
+      "name": "Insomnia",
+      "description": "Le Pokémon est incapable de dormir."
+    },
+    "Heatproof": {
+      "name": "Ignifugé",
+      "description": "Diminue de moitié les dégâts infligés au Pokémon\\npar les capacités de type Feu."
+    },
+    "Hadron Engine": {
+      "name": "Moteur à Hadrons",
+      "description": "Le Pokémon crée un champ électrifié quand il rejoint\\nle combat. Une machine du futur fait monter son Attaque\\nSpéciale si un champ électrifié est actif."
+    },
+    "Rain Dish": {
+      "name": "Cuvette",
+      "description": "Le Pokémon récupère progressivement des PV lorsqu'il pleut."
+    },
+    "Slush Rush": {
+      "name": "Chasse-Neige",
+      "description": "Augmente la Vitesse du Pokémon quand il neige."
+    },
+    "Psychic Surge": {
+      "name": "Créa-Psy",
+      "description": "Le Pokémon crée un champ psychique au moment\\noù il entre au combat."
+    },
+    "Synchronize": {
+      "name": "Synchro",
+      "description": "Quand le Pokémon est brûlé, paralysé ou empoisonné par un autre Pokémon, il partage ce statut avec celui-ci."
+    },
+    "Water Bubble": {
+      "name": "Aquabulle",
+      "description": "Réduit la puissance des capacités de type Feu subies\\npar le Pokémon. Il est également immunisé contre\\nles brûlures."
+    },
+    "Stakeout": {
+      "name": "Filature",
+      "description": "Lorsque le Pokémon attaque une cible qui vient d’entrer\\nsur le terrain en remplacement d’un autre Pokémon,\\nles dégâts infligés sont doublés."
+    },
+    "Defeatist": {
+      "name": "Défaitiste",
+      "description": "Le Pokémon devient défaitiste quand ses PV tombent\\nà la moitié, et son Attaque et son Attaque Spéciale\\nsont divisées par deux."
+    },
+    "Mind's Eye": {
+      "name": "Œil Révélateur",
+      "description": "Le Pokémon ignore les changements d’Esquive des cibles\\net peut toucher les Pokémon Spectre avec des capacités\\nNormal ou Combat. Sa Précision ne peut pas baisser."
+    },
+    "Delta Stream": {
+      "name": "Souffle Delta",
+      "description": "Altère les conditions météo pour annuler les faiblesses\\ndu type Vol."
+    },
+    "Steely Spirit": {
+      "name": "Boost Acier",
+      "description": "Augmente la puissance des attaques de type Acier\\ndu Pokémon et de ses alliés."
+    },
+    "Sticky Hold": {
+      "name": "Glu",
+      "description": "Les objets sont collés au corps gluant du Pokémon,\\nce qui empêche ses adversaires de les dérober."
+    },
+    "Guard Dog": {
+      "name": "Chien de Garde",
+      "description": "L’Attaque du Pokémon augmente s’il subit l’effet du\\ntalent Intimidation. Les capacités ou objets qui font\\nchanger de Pokémon n’ont aucun effet sur lui."
+    },
+    "Rocky Payload": {
+      "name": "Porte-Roche",
+      "description": "Augmente la puissance des capacités de type Roche."
+    },
+    "Battle Armor": {
+      "name": "Armurbaston",
+      "description": "Le Pokémon est protégé des coups critiques\\npar une solide carapace."
+    },
+    "Cotton Down": {
+      "name": "Effilochage",
+      "description": "Quand le Pokémon est touché par une attaque,\\nil dissémine des aigrettes qui diminuent la Vitesse\\nde tout le monde, sauf la sienne."
+    },
+    "Magic Bounce": {
+      "name": "Miroir Magik",
+      "description": "Annule les effets des capacités de statut subies\\npar le Pokémon et les retourne à l’envoyeur."
+    },
+    "Stamina": {
+      "name": "Endurance",
+      "description": "Augmente la Défense du Pokémon lorsqu’il subit\\nune attaque."
+    },
+    "Curious Medicine": {
+      "name": "Breuvage Suspect",
+      "description": "Quand il entre au combat, le Pokémon répand\\nune substance qui annule les changements de stats\\nde ses alliés."
+    },
+    "Comatose": {
+      "name": "Hypersommeil",
+      "description": "Le Pokémon rêve en permanence et ne se réveille\\njamais. Il est capable d’attaquer normalement\\ntout en dormant."
+    },
+    "Run Away": {
+      "name": "Fuite",
+      "description": "Permet de fuir n'importe quel Pokémon sauvage."
+    },
+    "Soul Heart": {
+      "name": "Animacœur",
+      "description": "Augmente l’Attaque Spéciale du Pokémon\\nlorsqu’un autre Pokémon est mis K.O."
+    },
+    "Regenerator": {
+      "name": "Régé-Force",
+      "description": "Restaure un peu de PV si le Pokémon est retiré\\ndu combat."
+    },
+    "White Smoke": {
+      "name": "Écran Fumée",
+      "description": "Un écran de fumée empêche l’adversaire de baisser\\nles stats du Pokémon."
+    },
+    "Desolate Land": {
+      "name": "Terre Finale",
+      "description": "Altère les conditions météo pour neutraliser\\nles attaques de type Eau."
+    },
+    "Earth Eater": {
+      "name": "Absorbe-Terre",
+      "description": "Si le Pokémon est touché par une capacité de type Sol,\\nil regagne des PV au lieu de subir des dégâts."
+    },
+    "Tangled Feet": {
+      "name": "Pieds Confus",
+      "description": "Augmente l'Esquive du Pokémon s'il est confus."
+    },
+    "Wind Power": {
+      "name": "Turbine Éolienne",
+      "description": "Si le Pokémon est touché par une capacité faisant appel\\nau vent, il se charge en électricité."
+    },
+    "Mega Launcher": {
+      "name": "Méga Blaster",
+      "description": "Augmente la puissance des capacités qui projettent\\nune aura."
+    },
+    "Mold Breaker": {
+      "name": "Brise Moule",
+      "description": "Le Pokémon ignore les talents adverses qui auraient un effet sur ses capacités."
+    },
+    "Dragon Maw": {
+      "name": "Dragon Maw",
+      "description": "<p>All Physical or special Dragon-Type Moves that this Pokemons uses have 2 Extra dice on their Damage Pool. This effect does not apply to Moves with set damage.</p><p>This Pokemon's mandibles are full of fury and fierceness. They'll rip and tear without mercy.</p>"
+    },
+    "Overcoat": {
+      "name": "Envelocape",
+      "description": "Protège des dégâts occasionnés par les tempêtes\\nde sable, ainsi que des effets des capacités\\nqui libèrent de la poudre et des spores."
+    },
+    "Rattled": {
+      "name": "Phobique",
+      "description": "Si le Pokémon est touché par le talent Intimidation ou\\nune attaque de type Ténèbres, Spectre ou Insecte,\\nsa phobie se révèle et sa Vitesse augmente."
+    },
+    "Own Tempo": {
+      "name": "Tempo Perso",
+      "description": "Le Pokémon vit sa vie à son propre rythme, ce qui l'immunise contre la confusion et l'intimidation."
+    },
+    "Magic Guard": {
+      "name": "Garde Magik",
+      "description": "Seules les attaques peuvent blesser le Pokémon."
+    },
+    "Bad Dreams": {
+      "name": "Mauvais Rêve",
+      "description": "Inflige des dégâts aux ennemis endormis."
+    },
+    "Illuminate": {
+      "name": "Lumiattirance",
+      "description": "Le Pokémon illumine les alentours, ce qui empêche\\nsa Précision de baisser."
+    },
+    "Anger Point": {
+      "name": "Colérique",
+      "description": "Si le Pokémon subit un coup critique, il entre\\ndans une colère noire qui augmente son Attaque\\nau maximum."
+    },
+    "Emergency Exit": {
+      "name": "Repli Tactique",
+      "description": "Le Pokémon évite les situations inutilement\\ndangereuses. Quand ses PV tombent à la moitié,\\nil se réfugie dans sa Poké Ball."
+    },
+    "Vital Spirit": {
+      "name": "Esprit Vital",
+      "description": "Empêche le Pokémon de s'endormir."
+    },
+    "Flash Fire": {
+      "name": "Torche",
+      "description": "Lorsque le Pokémon est touché par une capacité de type Feu, il absorbe la chaleur pour renforcer ses propres capacités Feu."
+    },
+    "Steadfast": {
+      "name": "Impassible",
+      "description": "Augmente la Vitesse du Pokémon quand il a peur."
+    },
+    "Swarm": {
+      "name": "Essaim",
+      "description": "Augmente la puissance des capacités de type Insecte du Pokémon quand il a perdu une certaine quantité de PV."
+    },
+    "Analytic": {
+      "name": "Analyste",
+      "description": "Augmente la puissance des capacités du Pokémon\\ns’il attaque en dernier."
+    },
+    "Tablets of Ruin": {
+      "name": "Bois du Fléau",
+      "description": "Le pouvoir du bois qui appelle le fléau affaiblit\\nl’Attaque de tous les autres Pokémon."
+    },
+    "Triage": {
+      "name": "Prioguérison",
+      "description": "Rend les capacités de soin prioritaires."
+    },
+    "Shell Armor": {
+      "name": "Coque Armure",
+      "description": "Le Pokémon est protégé des coups critiques par sa carapace."
+    },
+    "Sand Force": {
+      "name": "Force Sable",
+      "description": "Augmente la puissance des capacités de types Roche,\\nSol et Acier en cas de tempête de sable."
+    },
+    "RKS System": {
+      "name": "Système Alpha",
+      "description": "Change le type du Pokémon en fonction\\nde la ROM équipée."
+    },
+    "Seed Sower": {
+      "name": "Semencier",
+      "description": "Le Pokémon crée un champ herbu quand\\nil subit une attaque."
+    },
+    "Poison Heal": {
+      "name": "Soin Poison",
+      "description": "Quand le Pokémon est empoisonné, il regagne des PV\\nau lieu d’en perdre."
+    },
+    "Frisk": {
+      "name": "Fouille",
+      "description": "Permet de connaître l'objet tenu par l'ennemi quand le combat commence."
+    },
+    "Gulp Missile": {
+      "name": "Dégobage",
+      "description": "Quand le Pokémon utilise Surf ou Plongée, il revient\\navec une proie. Lorsqu’il subit des dégâts par la suite,\\nil attaque en recrachant sa proie."
+    },
+    "Water Absorb": {
+      "name": "Absorbe-Eau",
+      "description": "Si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place."
+    },
+    "Keen Eye": {
+      "name": "Regard Vif",
+      "description": "Les yeux perçants du Pokémon empêchent sa Précision de baisser."
+    },
+    "Huge Power": {
+      "name": "Coloforce",
+      "description": "Double la puissance des attaques physiques."
+    },
+    "Liquid Voice": {
+      "name": "Hydrata-Son",
+      "description": "Toutes les attaques sonores du Pokémon prennent\\nle type Eau."
+    },
+    "Quick Feet": {
+      "name": "Pied Véloce",
+      "description": "Augmente la Vitesse du Pokémon en cas d'altération de statut."
+    },
+    "Lingering Aroma": {
+      "name": "Odeur Tenace",
+      "description": "Lorsque le Pokémon subit une attaque directe, le talent\\nde l’attaquant est remplacé par Odeur Tenace."
+    },
+    "Forewarn": {
+      "name": "Prédiction",
+      "description": "Révèle l’une des capacités de l’adversaire quand\\nle combat commence."
+    },
+    "Quick Draw": {
+      "name": "Tir Vif",
+      "description": "Permet parfois au Pokémon d’agir en premier."
+    },
+    "Stance Change": {
+      "name": "Déclic Tactique",
+      "description": "Le Pokémon prend la Forme Assaut lorsqu’il utilise\\nune capacité offensive, et la Forme Parade lorsqu’il\\nutilise Bouclier Royal."
+    },
+    "Levitate": {
+      "name": "Lévitation",
+      "description": "Le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol."
+    },
+    "Bulletproof": {
+      "name": "Pare-Balles",
+      "description": "Protège de certaines capacités lançant des projectiles\\ncomme des bombes et des balles."
+    },
+    "Grassy Surge": {
+      "name": "Créa-Herbe",
+      "description": "Le Pokémon crée un champ herbu au moment\\noù il entre au combat."
+    },
+    "Inner Focus": {
+      "name": "Attention",
+      "description": "Le Pokémon a un mental à toute épreuve qui empêche les attaques ennemies de lui faire peur. Il est aussi immunisé contre le talent Intimidation."
+    },
+    "Thick Fat": {
+      "name": "Isograisse",
+      "description": "Le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace."
+    },
+    "Power Spot": {
+      "name": "Cercle d’Énergie",
+      "description": "Augmente la puissance des capacités des Pokémon\\nqui se trouvent à proximité."
+    },
+    "Sap Sipper": {
+      "name": "Herbivore",
+      "description": "Annule les attaques de type Plante subies\\npar le Pokémon et augmente son Attaque."
+    },
+    "Chlorophyll": {
+      "name": "Chlorophylle",
+      "description": "Augmente la Vitesse du Pokémon s'il y a du soleil."
+    },
+    "Drought": {
+      "name": "Sécheresse",
+      "description": "Le Pokémon invoque le soleil quand il entre au combat."
+    },
+    "Purifying Salt": {
+      "name": "Sel Purificateur",
+      "description": "Le sel pur immunise le Pokémon contre les altérations\\nde statut, et diminue de moitié les dégâts des capacités\\nde type Spectre."
+    },
+    "Slow Start": {
+      "name": "Début Calme",
+      "description": "Divise la Vitesse et l’Attaque du Pokémon par deux\\npendant les cinq premiers tours du combat."
+    },
+    "Skill Link": {
+      "name": "Multi-Coups",
+      "description": "Les capacités pouvant frapper plusieurs fois frappent\\ntoujours le nombre maximal de coups."
+    },
+    "Sheer Force": {
+      "name": "Sans Limite",
+      "description": "Les capacités ayant un effet additionnel le perdent,\\nmais leur puissance augmente."
+    },
+    "Magma Armor": {
+      "name": "Armumagma",
+      "description": "Le magma qui recouvre le corps du Pokémon le protège\\ncontre le gel."
+    },
+    "Friend Guard": {
+      "name": "Garde-Ami",
+      "description": "Diminue les dégâts subis par les alliés."
+    },
+    "Tangling Hair": {
+      "name": "Mèche Rebelle",
+      "description": "Baisse la Vitesse de l’attaquant lorsque le Pokémon\\nsubit une attaque directe."
+    },
+    "Sweet Veil": {
+      "name": "Gluco-Voile",
+      "description": "Le Pokémon et ses alliés ne peuvent pas s’endormir."
+    },
+    "Unburden": {
+      "name": "Délestage",
+      "description": "Augmente la Vitesse du Pokémon s'il perd ou utilise l'objet qu'il tenait au début du combat."
+    },
+    "Sword of Ruin": {
+      "name": "Épée du Fléau",
+      "description": "Le pouvoir de l’épée qui appelle le fléau affaiblit\\nla Défense de tous les autres Pokémon."
+    },
+    "Plus": {
+      "name": "Plus",
+      "description": "L’Attaque Spéciale du Pokémon augmente\\nsi un Pokémon allié a le talent Moins ou Plus."
+    },
+    "Punk Rock": {
+      "name": "Punk Rock",
+      "description": "Augmente la puissance des capacités basées sur le son.\\nLe Pokémon ne subit que la moitié des dégâts quand\\nil est touché par ce genre de capacités."
+    },
+    "Pickpocket": {
+      "name": "Pickpocket",
+      "description": "Vole l’objet que tient l’attaquant quand le Pokémon\\nsubit une attaque directe."
+    },
+    "Oblivious": {
+      "name": "Benêt",
+      "description": "Le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction, la provocation ou l'intimidation."
+    },
+    "Mirror Armor": {
+      "name": "Armure Miroir",
+      "description": "Le Pokémon renvoie les effets réducteurs de stats\\nqu’il reçoit."
+    },
+    "Poison Point": {
+      "name": "Point Poison",
+      "description": "Peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe."
+    },
+    "Light Metal": {
+      "name": "Light Metal",
+      "description": "Divise par deux le poids du Pokémon."
+    },
+    "Technician": {
+      "name": "Technicien",
+      "description": "Augmente la puissance des capacités les plus faibles."
+    },
+    "Full Metal Body": {
+      "name": "Métallo-Garde",
+      "description": "Empêche les stats du Pokémon de baisser à cause\\ndu talent ou d’une capacité de l’adversaire."
+    },
+    "Color Change": {
+      "name": "Homochromie",
+      "description": "Lorsque le Pokémon est touché par une capacité,\\nil prend le type de celle-ci."
+    },
+    "Shadow Tag": {
+      "name": "Marque Ombre",
+      "description": "Empêche les Pokémon ennemis de quitter le terrain."
+    },
+    "Klutz": {
+      "name": "Maladresse",
+      "description": "Le Pokémon ne peut utiliser aucun objet tenu."
+    },
+    "Drizzle": {
+      "name": "Crachin",
+      "description": "Le Pokémon invoque la pluie quand il entre au combat."
+    },
+    "Stall": {
+      "name": "Frein",
+      "description": "Le Pokémon utilise toujours sa capacité en dernier."
+    },
+    "Grass Pelt": {
+      "name": "Toison Herbue",
+      "description": "Augmente la Défense du Pokémon si un champ herbu\\nest actif."
+    },
+    "Refrigerate": {
+      "name": "Peau Gelée",
+      "description": "Les capacités de type Normal deviennent de type Glace.\\nLeur puissance augmente légèrement."
+    },
+    "Costar": {
+      "name": "Collab",
+      "description": "Quand le Pokémon entre sur le terrain, il copie\\nles changements de stats de son allié."
+    },
+    "Tera Shell": {
+      "name": "Téra-Carapace",
+      "description": "Grâce à sa carapace qui renferme l’énergie de tous\\nles types, les capacités subies par ce Pokémon quand\\nses PV sont au maximum ne sont pas très efficaces."
+    },
+    "Hyper Cutter": {
+      "name": "Hyper Cutter",
+      "description": "Le Pokémon est armé de puissantes pinces qui font sa fierté et empêchent son Attaque d'être baissée par l'adversaire."
+    },
+    "Tera Shift": {
+      "name": "Téramorphose",
+      "description": "Quand le Pokémon rejoint le combat, il absorbe\\nl’énergie alentour et prend sa Forme Téracristal."
+    },
+    "Torrent": {
+      "name": "Torrent",
+      "description": "Augmente la puissance des capacités de type Eau du Pokémon quand il a perdu une certaine quantité de PV."
+    },
+    "Wimp Out": {
+      "name": "Escampette",
+      "description": "Le Pokémon perd confiance quand ses PV tombent\\nà la moitié et s’enfuit dans sa Poké Ball."
+    },
+    "Weak Armor": {
+      "name": "Armurouillée",
+      "description": "Quand le Pokémon est touché par une capacité\\nphysique, sa Défense baisse mais sa Vitesse\\naugmente beaucoup."
+    },
+    "Air Lock": {
+      "name": "Air Lock",
+      "description": "Annule tous les effets de la météo."
+    },
+    "Snow Cloak": {
+      "name": "Rideau Neige",
+      "description": "Augmente l'Esquive du Pokémon quand il neige."
+    },
+    "Water Veil": {
+      "name": "Ignifu-Voile",
+      "description": "Le voile qui recouvre le Pokémon le protège\\ndes brûlures."
+    },
+    "Ice Face": {
+      "name": "Tête de Gel",
+      "description": "Le glaçon sur sa tête encaisse les attaques physiques\\nà la place du Pokémon, mais sa destruction modifie\\nson apparence. Le glaçon se reforme quand il neige."
+    },
+    "Static": {
+      "name": "Statik",
+      "description": "Le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser."
+    },
+    "Good As Gold": {
+      "name": "Corps en Or",
+      "description": "Le corps en or pur et robuste du Pokémon l’immunise\\ncontre les capacités de statut des autres Pokémon."
+    },
+    "Gale Wings": {
+      "name": "Ailes Bourrasque",
+      "description": "Quand les PV du Pokémon sont au maximum,\\nses capacités de type Vol sont prioritaires."
+    },
+    "Surge Surfer": {
+      "name": "Surf Caudal",
+      "description": "La Vitesse du Pokémon est doublée sur\\nun champ électrifié."
+    },
+    "Unseen Fist": {
+      "name": "Poing Invisible",
+      "description": "Si le Pokémon utilise une attaque directe, celle-ci\\npourra toucher la cible même si elle se protège."
+    },
+    "Supersweet Syrup": {
+      "name": "Nectar Mielleux",
+      "description": "La première fois que le Pokémon entre au combat,\\nune odeur de nectar sucré se répand sur le terrain,\\nce qui baisse l’Esquive de l’adversaire."
+    },
+    "Disguise": {
+      "name": "Fantômasque",
+      "description": "Le déguisement qui recouvre le corps du Pokémon\\nest capable de le protéger d’une attaque."
+    },
+    "Aroma Veil": {
+      "name": "Aroma-Voile",
+      "description": "Protège le Pokémon et ses alliés des effets limitant\\nle libre arbitre."
+    },
+    "Symbiosis": {
+      "name": "Symbiose",
+      "description": "Quand les alliés utilisent l’objet qu’ils tiennent,\\nle Pokémon leur donne l’objet qu’il tient\\nen remplacement."
+    },
+    "Poison Touch": {
+      "name": "Toxitouche",
+      "description": "Peut empoisonner l’ennemi par simple contact."
+    },
+    "Zero to Hero": {
+      "name": "Supermutation",
+      "description": "Le Pokémon prend sa Forme Super en quittant\\nle combat."
+    },
+    "Beast Boost": {
+      "name": "Boost Chimère",
+      "description": "Augmente la stat la plus élevée du Pokémon\\nquand il met K.O. un autre Pokémon."
+    },
+    "Cud Chew": {
+      "name": "Ruminant",
+      "description": "Quand le Pokémon mange une Baie, il la régurgite\\nà la fin du tour suivant et la mange une nouvelle fois."
+    },
+    "Gorilla Tactics": {
+      "name": "Entêtement",
+      "description": "Augmente l’Attaque, mais empêche d’utiliser\\ntoute autre capacité que celle utilisée en premier\\npar le Pokémon."
+    },
+    "Blaze": {
+      "name": "Brasier",
+      "description": "Augmente la puissance des capacités de type Feu du Pokémon quand il a perdu une certaine quantité de PV."
+    },
+    "Immunity": {
+      "name": "Vaccin",
+      "description": "Le Pokémon est naturellement immunisé\\ncontre toute forme de poison."
+    },
+    "Electromorphosis": {
+      "name": "Grecharge",
+      "description": "Si le Pokémon subit des dégâts, il se charge\\nen électricité."
+    },
+    "Scrappy": {
+      "name": "Querelleur",
+      "description": "Permet aux capacités de type Normal ou Combat du Pokémon de toucher les Pokémon de type Spectre. Immunise aussi contre le talent Intimidation."
+    },
+    "Battery": {
+      "name": "Batterie",
+      "description": "Augmente la puissance des capacités spéciales des alliés."
+    },
+    "Forecast": {
+      "name": "Météo",
+      "description": "Le Pokémon prend le type Eau, Feu ou Glace\\nen fonction de la météo."
+    },
+    "Shadow Shield": {
+      "name": "Spectro-Bouclier",
+      "description": "Le Pokémon subit moins de dégâts quand ses PV\\nsont au maximum."
+    },
+    "Pressure": {
+      "name": "Pression",
+      "description": "Met la pression à l’adversaire pour le forcer\\nà dépenser plus de PP."
+    },
+    "Power of Alchemy": {
+      "name": "Osmose",
+      "description": "Le Pokémon acquiert le talent d’un allié mis K.O."
+    },
+    "Receiver": {
+      "name": "Receveur",
+      "description": "Le Pokémon reçoit le talent d’un allié mis K.O."
+    },
+    "Neuroforce": {
+      "name": "Cérébro-Force",
+      "description": "Augmente encore plus la puissance des attaques\\nsuper efficaces."
+    },
+    "Lightning Rod": {
+      "name": "Paratonnerre",
+      "description": "Le Pokémon détourne sur lui les capacités\\nde type Électrik et les neutralise, tout en\\naugmentant son Attaque Spéciale."
+    },
+    "Prankster": {
+      "name": "Farceur",
+      "description": "Rend les capacités de statut du Pokémon prioritaires."
+    },
+    "As One": {
+      "name": "As One",
+      "description": "<p>This ability trigger a form change that combines the attributes and movepool of two Allied Pokemon. Choose one ability from each of the two Pokemon forming this union, the joint form of these Pokemon may use those two Abilities at the same time. Unique Ability.</p><p>Two Pokemon join forces, one riding on the other's back. Together, they ride for ruin and the world's ending.</p>"
+    },
+    "Strong Jaw": {
+      "name": "Prognathe",
+      "description": "Le Pokémon a une mâchoire robuste qui augmente\\nla puissance de ses capacités de morsure."
+    },
+    "Gluttony": {
+      "name": "Gloutonnerie",
+      "description": "Si le Pokémon tient une Baie à manger en cas de PV bas, il la mange dès qu'il a perdu la moitié de ses PV."
+    },
+    "Shields Down": {
+      "name": "Bouclier-Carcan",
+      "description": "Lorsque le Pokémon perd la moitié de ses PV,\\nson enveloppe se brise et il adopte une posture\\noffensive."
+    },
+    "Hydration": {
+      "name": "Hydratation",
+      "description": "Soigne les altérations de statut du Pokémon quand il pleut."
+    },
+    "Tough Claws": {
+      "name": "Griffe Dure",
+      "description": "Augmente la puissance des attaques directes\\ndu Pokémon."
+    },
+    "Gooey": {
+      "name": "Poisseux",
+      "description": "Baisse la Vitesse de l’attaquant lorsque le Pokémon\\nsubit une attaque directe."
+    },
+    "Volt Absorb": {
+      "name": "Absorbe-Volt",
+      "description": "Si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et regagne des PV à la place."
+    },
+    "Filter": {
+      "name": "Filtre",
+      "description": "Diminue la puissance des attaques super efficaces\\nsubies."
+    },
+    "Toxic Chain": {
+      "name": "Chaîne Toxique",
+      "description": "Grâce aux pouvoirs de sa chaîne imprégnée de toxines,\\nle Pokémon peut empoisonner gravement sa cible\\nen la touchant avec une capacité."
+    },
+    "Natural Cure": {
+      "name": "Médic Nature",
+      "description": "Le Pokémon soigne ses altérations de statut en quittant le combat."
+    },
+    "Clear Body": {
+      "name": "Corps Sain",
+      "description": "Empêche les stats du Pokémon de baisser à cause du talent ou d'une capacité de l'adversaire."
+    },
+    "Sniper": {
+      "name": "Sniper",
+      "description": "Lorsque le Pokémon porte un coup critique, les dégâts\\ninfligés augmentent encore plus que d’habitude."
+    },
+    "Telepathy": {
+      "name": "Télépathe",
+      "description": "Le Pokémon anticipe et évite les attaques de ses alliés."
+    },
+    "Harvest": {
+      "name": "Récolte",
+      "description": "Permet de réutiliser une même Baie plusieurs fois."
+    },
+    "Suction Cups": {
+      "name": "Ventouse",
+      "description": "Le Pokémon est solidement fixé au sol par des\\nventouses, ce qui le protège des capacités ou\\nobjets qui font changer de Pokémon."
+    },
+    "Poison Puppeteer": {
+      "name": "Emprise Toxique",
+      "description": "Lorsque Pêchaminus empoisonne un Pokémon grâce\\nà l’une de ses capacités, ce dernier devient également\\nconfus."
+    },
+    "Sand Veil": {
+      "name": "Voile Sable",
+      "description": "Augmente l'Esquive du Pokémon lors des tempêtes de sable."
+    },
+    "Armor Tail": {
+      "name": "Armure Caudale",
+      "description": "Une étrange queue recouvre la tête du Pokémon,\\nce qui empêche ce dernier et ses alliés d’être visés\\npar une capacité prioritaire."
+    },
+    "Victory Star": {
+      "name": "Victorieux",
+      "description": "Augmente la Précision du Pokémon et de ses alliés."
+    },
+    "Quark Drive": {
+      "name": "Charge Quantique",
+      "description": "Quand un champ électrifié est actif ou que le Pokémon\\ntient une capsule d’Énergie Booster, sa stat la plus élevée\\naugmente."
+    },
+    "Illusion": {
+      "name": "Illusion",
+      "description": "Le Pokémon prend l’apparence du dernier membre\\nde l’équipe pour tromper l’adversaire."
+    },
+    "Aura Break": {
+      "name": "Aura Inversée",
+      "description": "Inverse l’effet des talents « Aura » afin que ceux-ci\\nbaissent la puissance des capacités affectées au lieu\\nde l’augmenter."
+    },
+    "Sand Spit": {
+      "name": "Expul’Sable",
+      "description": "Le Pokémon déclenche une tempête de sable\\nquand il subit une attaque."
+    },
+    "Marvel Scale": {
+      "name": "Écaille Spéciale",
+      "description": "Les écailles mystérieuses du Pokémon réagissent\\naux altérations de statut en augmentant sa Défense."
+    },
+    "Moxie": {
+      "name": "Impudence",
+      "description": "Quand le Pokémon met un ennemi K.O.,\\nsa confiance en lui ne connaît plus de limite\\net son Attaque augmente."
+    },
+    "Cheek Pouch": {
+      "name": "Bajoues",
+      "description": "Le Pokémon récupère des PV lorsqu’il consomme\\nn’importe quelle Baie en plus de bénéficier de\\nses effets habituels."
+    },
+    "Fluffy": {
+      "name": "Boule de Poils",
+      "description": "Divise par deux les dégâts des attaques directes\\nsubies par le Pokémon, mais double les dégâts\\ndes capacités de type Feu."
+    },
+    "Thermal Exchange": {
+      "name": "Thermodynamique",
+      "description": "Lorsque le Pokémon est touché par une capacité de type\\nFeu, son Attaque augmente. Il ne peut pas être brûlé."
+    },
+    "Wandering Spirit": {
+      "name": "Âme Vagabonde",
+      "description": "Lorsque le Pokémon est directement touché\\npar une capacité, il échange son talent avec\\ncelui de l’assaillant."
+    },
+    "Liquid Ooze": {
+      "name": "Suintement",
+      "description": "Le Pokémon suinte un liquide toxique nauséabond qui blesse tous ceux qui tentent de voler ses PV."
+    },
+    "Mimicry": {
+      "name": "Mimétisme",
+      "description": "Le Pokémon adopte le même type que le terrain\\nlorsqu’un champ est actif."
+    },
+    "Sharpness": {
+      "name": "Incisif",
+      "description": "Augmente la puissance des capacités tranchantes."
+    },
+    "Anger Shell": {
+      "name": "Courroupace",
+      "description": "Le Pokémon enrage s’il a moins de la moitié de ses PV\\naprès avoir subi une attaque. Sa Déf. et sa Déf. Spé.\\nbaissent, et son Atq., son Atq. Spé. et sa Vit. augmentent."
+    },
+    "Galvanize": {
+      "name": "Peau Électrique",
+      "description": "Les capacités de type Normal deviennent de type\\nÉlectrik. Leur puissance augmente légèrement."
+    },
+    "Ball Fetch": {
+      "name": "Ramasse Ball",
+      "description": "Si le Pokémon ne tient aucun objet, il ramassera\\nla Poké Ball lors du premier lancer raté du combat."
+    },
+    "Pickup": {
+      "name": "Ramassage",
+      "description": "Permet parfois au Pokémon de ramasser les objets\\nque d’autres Pokémon ont utilisés. Il lui arrive aussi\\nd’en trouver hors des combats."
+    },
+    "Adaptability": {
+      "name": "Adaptabilité",
+      "description": "Quand le Pokémon utilise une capacité du même type que lui, le bonus de puissance qu'elle reçoit est encore plus important que normalement."
+    },
+    "Truant": {
+      "name": "Absentéisme",
+      "description": "Lorsque le Pokémon utilise une capacité, il passe le tour suivant à paresser."
+    },
+    "Multitype": {
+      "name": "Multi-Type",
+      "description": "Modifie le type du Pokémon en fonction de la plaque\\nqu’il tient."
+    },
+    "Orichalcum Pulse": {
+      "name": "Pouls Orichalque",
+      "description": "Le Pokémon invoque le soleil quand il rejoint le combat.\\nQuand le soleil brille, une pulsation primitive augmente\\nson Attaque."
+    },
+    "Dry Skin": {
+      "name": "Peau Sèche",
+      "description": "Quand le soleil brille, le Pokémon perd des PV et subit plus de dégâts des capacités Feu, mais il regagne des PV lorsqu'il pleut ou s'il est touché par une capacité Eau."
+    },
+    "Wonder Guard": {
+      "name": "Garde Mystik",
+      "description": "Une puissance mystérieuse protège le Pokémon contre\\ntoutes les capacités, sauf celles qui sont super efficaces."
+    },
+    "Cursed Body": {
+      "name": "Corps Maudit",
+      "description": "Quand le Pokémon est touché par une capacité adverse,\\nil inflige parfois Entrave sur celle-ci."
+    },
+    "Unaware": {
+      "name": "Inconscient",
+      "description": "Le Pokémon ignore les changements de stats des autres Pokémon, qu'il attaque ou soit attaqué."
+    },
+    "Early Bird": {
+      "name": "Matinal",
+      "description": "Le Pokémon se réveille deux fois plus rapidement que les autres."
+    },
+    "Electric Surge": {
+      "name": "Créa-Élec",
+      "description": "Le Pokémon crée un champ électrifié au moment\\noù il entre au combat."
+    },
+    "Mummy": {
+      "name": "Momie",
+      "description": "Lorsque le Pokémon subit une attaque directe, le talent\\nde l’attaquant est remplacé par Momie."
+    },
+    "Stalwart": {
+      "name": "Nerfs d’Acier",
+      "description": "Permet d’ignorer l’effet des capacités ou des talents qui\\nattirent les capacités."
+    },
+    "Prism Armor": {
+      "name": "Prisme-Armure",
+      "description": "Diminue la puissance des attaques super efficaces\\nsubies."
+    },
+    "Power Construct": {
+      "name": "Rassemblement",
+      "description": "Lorsque le Pokémon perd la moitié de ses PV,\\nses Cellules se rassemblent pour l’encourager,\\nce qui lui permet de prendre sa Forme Parfaite."
+    },
+    "Steam Engine": {
+      "name": "Turbine",
+      "description": "Lorsque le Pokémon est touché par des capacités\\nde type Eau ou Feu, sa Vitesse augmente énormément."
+    },
+    "Toxic Boost": {
+      "name": "Rage Poison",
+      "description": "Augmente la puissance des capacités physiques\\nquand le Pokémon est empoisonné."
+    },
+    "Berserk": {
+      "name": "Folle Furie",
+      "description": "Augmente l’Attaque Spéciale du Pokémon lorsque\\nses PV tombent à la moitié à cause d’une attaque\\nde l’adversaire."
+    },
+    "Mycelium Might": {
+      "name": "Force Fongique",
+      "description": "Le Pokémon agit toujours plus lentement quand il utilise\\nune capacité de statut, mais il ignore les talents adverses."
+    },
+    "Hospitality": {
+      "name": "Aux Petits Soins",
+      "description": "Quand il rejoint le combat, ce Pokémon est aux petits\\nsoins avec son allié et restaure quelques PV."
+    },
+    "Iron Fist": {
+      "name": "Poing de Fer",
+      "description": "Augmente la puissance des capacités coups de poing."
+    },
+    "Normalize": {
+      "name": "Normalise",
+      "description": "Toutes les capacités du Pokémon deviennent\\nde type Normal, quel que soit leur type original.\\nLeur puissance augmente légèrement."
+    },
+    "Flame Body": {
+      "name": "Corps Ardent",
+      "description": "Peut brûler l'attaquant lorsque le Pokémon subit une attaque directe."
+    },
+    "Snow Warning": {
+      "name": "Alerte Neige",
+      "description": "Le Pokémon invoque la neige quand il entre au combat."
+    },
+    "Embody Aspect": {
+      "name": "Force Mémorielle",
+      "description": "Le Pokémon fait briller le Masque en puisant dans ses souvenirs, ce qui augmente ses stats."
+    },
+    "Dazzling": {
+      "name": "Corps Coloré",
+      "description": "L’adversaire est abasourdi par le Pokémon,\\nce qui l’empêche de viser ce dernier et\\nses alliés avec une capacité prioritaire."
+    },
+    "Ice Body": {
+      "name": "Corps Gel",
+      "description": "Régénère peu à peu les PV du Pokémon quand il neige."
+    },
+    "Stench": {
+      "name": "Puanteur",
+      "description": "Le Pokémon émet une odeur si nauséabonde qu'il peut effrayer sa cible en l'attaquant."
+    },
+    "Shield Dust": {
+      "name": "Écran Poudre",
+      "description": "Le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies."
+    },
+    "Transistor": {
+      "name": "Transistor",
+      "description": "Augmente la puissance des capacités de type Électrik."
+    },
+    "Speed Boost": {
+      "name": "Turbo",
+      "description": "La Vitesse du Pokémon augmente à chaque tour."
+    },
+    "Rivalry": {
+      "name": "Rivalité",
+      "description": "Le Pokémon déteste la concurrence et inflige plus de dégâts si sa cible est du même sexe. Par contre, il en inflige moins si sa cible est du sexe opposé."
+    },
+    "Effect Spore": {
+      "name": "Pose Spore",
+      "description": "Peut paralyser, empoisonner ou endormir l'attaquant lorsque le Pokémon subit une attaque directe."
+    },
+    "Wind Rider": {
+      "name": "Aéroporté",
+      "description": "L’Attaque du Pokémon augmente si un vent arrière souffle\\nou s’il est touché par une capacité faisant appel au vent.\\nDans ce dernier cas, il ne subit aucun dégât."
+    },
+    "Storm Drain": {
+      "name": "Lavabo",
+      "description": "Le Pokémon détourne sur lui les capacités de\\ntype Eau et les neutralise, tout en augmentant\\nson Attaque Spéciale."
+    },
+    "Teraform Zero": {
+      "name": "Téraformation 0",
+      "description": "Lorsque Terapagos prend sa Forme Stellaire, il utilise\\nson pouvoir enfoui pour annuler les effets de la météo\\net des champs actifs."
+    },
+    "Long Reach": {
+      "name": "Longue Portée",
+      "description": "Le Pokémon est capable d’utiliser toutes ses capacités\\nsans entrer en contact direct avec sa cible."
+    },
+    "Cloud Nine": {
+      "name": "Ciel Gris",
+      "description": "Annule tous les effets liés à la météo."
+    },
+    "Leaf Guard": {
+      "name": "Feuille Garde",
+      "description": "Protège le Pokémon contre les altérations de statut quand le soleil brille."
+    },
+    "Supreme Overlord": {
+      "name": "Général Suprême",
+      "description": "Quand le Pokémon entre sur le terrain, son Attaque\\net son Attaque Spéciale augmentent légèrement\\npour chaque allié mis K.O. auparavant."
+    },
+    "Soundproof": {
+      "name": "Anti-Bruit",
+      "description": "Protège le Pokémon de toutes les capacités sonores."
+    },
+    "Sand Stream": {
+      "name": "Sable Volant",
+      "description": "Le Pokémon invoque une tempête de sable\\nquand il entre au combat."
+    },
+    "Hustle": {
+      "name": "Agitation",
+      "description": "Améliore l'Attaque du Pokémon, mais diminue la Précision."
+    },
+    "Flare Boost": {
+      "name": "Rage Brûlure",
+      "description": "Augmente la puissance des capacités spéciales\\nquand le Pokémon est brûlé."
+    },
+    "Corrosion": {
+      "name": "Corrosion",
+      "description": "Permet d’empoisonner les Pokémon de type Acier\\nou Poison."
+    },
+    "Teravolt": {
+      "name": "Téra-Voltage",
+      "description": "Le Pokémon ignore les talents adverses qui auraient\\nun effet sur ses capacités."
+    },
+    "Fur Coat": {
+      "name": "Toison Épaisse",
+      "description": "Divise par deux les dégâts des capacités physiques\\nsubies par le Pokémon."
+    },
+    "Well-Baked Body": {
+      "name": "Bien Cuit",
+      "description": "Si le Pokémon est touché par une capacité de type Feu,\\nil ne subit aucun dégât et sa Défense augmente\\nbeaucoup."
+    },
+    "Steelworker": {
+      "name": "Expert Acier",
+      "description": "Augmente la puissance des attaques de type Acier."
+    },
+    "Unnerve": {
+      "name": "Tension",
+      "description": "Fait stresser l’adversaire, ce qui l’empêche de manger\\ndes Baies."
+    },
+    "Libero": {
+      "name": "Libéro",
+      "description": "Le Pokémon prend le type de la capacité qu’il utilise.\\nCe talent ne peut se déclencher qu’une fois par entrée\\nau combat du Pokémon."
+    },
+    "Intimidate": {
+      "name": "Intimidation",
+      "description": "Le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque."
+    }
+  }
+}
