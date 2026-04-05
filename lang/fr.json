@@ -1,0 +1,141 @@
+{
+  "POKEROLE": {
+    "General": {
+      "Yes": "Oui",
+      "No": "Non",
+      "Cancel": "Annuler",
+      "Confirm": "Confirmer",
+      "Close": "Fermer"
+    },
+
+    "Attributes": {
+      "Strength": "Force",
+      "Dexterity": "Dextérité",
+      "Vitality": "Vitalité",
+      "Special": "Spécial",
+      "Insight": "Perception"
+    },
+
+    "Derived": {
+      "HP": "Points de Vie",
+      "MaxHP": "PV Max",
+      "Willpower": "Volonté",
+      "Initiative": "Initiative",
+      "Defense": "Défense",
+      "SpecialDefense": "Défense Spéciale",
+      "Accuracy": "Précision",
+      "Evasion": "Esquive"
+    },
+
+    "Skills": {
+      "Brawl": "Combat",
+      "Clash": "Affrontement",
+      "Evasion": "Esquive",
+      "Alert": "Vigilance",
+      "Athletic": "Athlétisme",
+      "Nature": "Nature",
+      "Stealth": "Discrétion",
+      "Allure": "Charisme",
+      "Channel": "Canalisation",
+      "Empathy": "Empathie",
+      "Intimidate": "Intimidation"
+    },
+
+    "Types": {
+      "Normal": "Normal",
+      "Fire": "Feu",
+      "Water": "Eau",
+      "Grass": "Plante",
+      "Electric": "Électrik",
+      "Ice": "Glace",
+      "Fighting": "Combat",
+      "Poison": "Poison",
+      "Ground": "Sol",
+      "Flying": "Vol",
+      "Psychic": "Psy",
+      "Bug": "Insecte",
+      "Rock": "Roche",
+      "Ghost": "Spectre",
+      "Dragon": "Dragon",
+      "Dark": "Ténèbres",
+      "Steel": "Acier",
+      "Fairy": "Fée"
+    },
+
+    "Status": {
+      "Burn": "Brûlure",
+      "Poison": "Poison",
+      "Paralysis": "Paralysie",
+      "Sleep": "Sommeil",
+      "Freeze": "Gel",
+      "Confusion": "Confusion"
+    },
+
+    "UI": {
+      "Name": "Nom",
+      "Level": "Niveau",
+      "Experience": "Expérience",
+      "Trainer": "Dresseur",
+      "Pokemon": "Pokémon",
+      "Inventory": "Inventaire",
+      "Items": "Objets",
+      "Moves": "Attaques",
+      "Abilities": "Capacités",
+      "Notes": "Notes",
+      "Description": "Description",
+      "Type": "Type",
+      "Category": "Catégorie",
+      "Effect": "Effet",
+      "Power": "Puissance",
+      "Accuracy": "Précision",
+      "PP": "PP",
+      "Target": "Cible",
+      "Range": "Portée"
+    },
+
+    "Moves": {
+      "Physical": "Physique",
+      "Special": "Spéciale",
+      "Status": "Statut"
+    },
+
+    "Combat": {
+      "Attack": "Attaque",
+      "Damage": "Dégâts",
+      "Critical": "Critique",
+      "Hit": "Touché",
+      "Miss": "Raté",
+      "Success": "Réussite",
+      "Failure": "Échec",
+      "Turn": "Tour",
+      "Round": "Round",
+      "InitiativeRoll": "Jet d’initiative",
+      "AttackRoll": "Jet d’attaque",
+      "DamageRoll": "Jet de dégâts"
+    },
+
+    "Items": {
+      "Potion": "Potion",
+      "SuperPotion": "Super Potion",
+      "HyperPotion": "Hyper Potion",
+      "Revive": "Rappel",
+      "Pokeball": "Poké Ball",
+      "Greatball": "Super Ball",
+      "Ultraball": "Hyper Ball"
+    },
+
+    "Sheets": {
+      "CharacterSheet": "Fiche Personnage",
+      "PokemonSheet": "Fiche Pokémon",
+      "TrainerSheet": "Fiche Dresseur"
+    },
+
+    "Messages": {
+      "LevelUp": "Monte de niveau !",
+      "Fainted": "est K.O.",
+      "UsedMove": "utilise",
+      "GainedXP": "gagne de l'expérience",
+      "Caught": "a été capturé"
+    }
+  }
+}

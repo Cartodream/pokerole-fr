@@ -1,0 +1,22 @@
+{
+  "name": "pokerole-fr",
+  "title": "Pokerole - Traduction Française",
+  "description": "Traduction FR du système Pokerole",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "TomBombadil"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  }
+}
