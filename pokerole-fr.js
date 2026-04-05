@@ -58,6 +58,22 @@ Hooks.once('setup', () => {
       lang: 'fr',
       dir: 'packs'
     });
+  } else if (typeof game.babele !== 'undefined') {
+    game.babele.register({
+      module: 'pokerole-fr',
+      lang: 'fr',
+      dir: 'packs'
+    });
+  }
+});
+
+Hooks.once('babele.ready', () => {
+  if (typeof Babele !== 'undefined') {
+    Babele.get().register({
+      module: 'pokerole-fr',
+      lang: 'fr',
+      dir: 'packs'
+    });
   }
 });
 
